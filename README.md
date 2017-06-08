@@ -1,3 +1,3 @@
 # Small-Assignments
 
-Various small assignments, some more advanced versions of others. 
+Simple tip- Calculator built using Ruby programming. 
